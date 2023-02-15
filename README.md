@@ -7,7 +7,7 @@ the difference between observed and expected data, is crucial to studying roboti
 slight change in algorithms can put a robot at risk while operating it physically. One
 potential strategy for modifying current data to match better what an algorithm might
 anticipate during operation is to use generative methods, which try to produce data
-depending on the input. In master's thesis researching various Generative Adversarial
+depending on the input. In my master's thesis, I researched and implemented various Generative Adversarial
 Networks and Vector Quantization methods capable of generating real-world scenarios
 from computer-generated images.
 
