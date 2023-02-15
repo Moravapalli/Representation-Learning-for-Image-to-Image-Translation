@@ -11,4 +11,4 @@ depending on the input. In our study, we are researching various Generative Adve
 Networks and Vector Quantization methods capable of generating real-world scenarios
 from computer-generated images.
 
-## Datasets:
+### Datasets:
