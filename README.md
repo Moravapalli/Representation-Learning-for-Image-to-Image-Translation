@@ -10,3 +10,5 @@ anticipate during operation is to use generative methods, which try to produce d
 depending on the input. In our study, we are researching various Generative Adversarial
 Networks and Vector Quantization methods capable of generating real-world scenarios
 from computer-generated images.
+
+## Datasets:
