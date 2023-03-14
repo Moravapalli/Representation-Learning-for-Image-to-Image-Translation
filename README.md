@@ -20,7 +20,7 @@ from the Synthetic images.
 `conda env create -f environment.yml`
 
 
-## Sample Image Translations
+## Image Translation examples:
 ![Picture1](https://user-images.githubusercontent.com/71276798/225160690-155ac65c-67cc-43e4-8816-85cebb99b266.png)
 
 ![Picture2](https://user-images.githubusercontent.com/71276798/225160913-dd707469-6d7c-496f-b31d-63c482ef6862.png)
