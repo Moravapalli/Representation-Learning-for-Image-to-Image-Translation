@@ -13,6 +13,7 @@ from computer-generated images.
 
 
 #### Creating environment
+`conda install`
 
 
 
