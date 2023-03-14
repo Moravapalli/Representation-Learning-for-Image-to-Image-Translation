@@ -13,13 +13,14 @@ from computer-generated images.
 
 PyTorch implementation of Representation learning for Image-to-Image Translation. The goal of this work is to make use of
 Qunatized discrete codebook to translate images from one domain to another by making a model to this discrete representation 
-from the Synthetic images  
+from the Synthetic images.
+
 ##### Creating environment
 
 `conda env create -f environment.yml`
 
 
-
+Image Reconstruction 
 ![Picture1](https://user-images.githubusercontent.com/71276798/225160690-155ac65c-67cc-43e4-8816-85cebb99b266.png)
 
 ![Picture2](https://user-images.githubusercontent.com/71276798/225160913-dd707469-6d7c-496f-b31d-63c482ef6862.png)
