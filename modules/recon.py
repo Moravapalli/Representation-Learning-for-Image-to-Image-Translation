@@ -1,6 +1,6 @@
 #module for reconstruction
 
-import torch
+import torch 
 import torch.nn as nn
 
 from modules.architecture import Decoder
