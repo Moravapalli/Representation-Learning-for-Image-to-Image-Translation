@@ -33,7 +33,7 @@ def train(recon,r_con,disc, syn_enc, loader, opt_disc, opt_gen, l1, mse, d_scale
         # Train Discriminator
         disc.zero_grad()
         # train with real
-        real_disc = disc(real_lat)
+        real_disc = disc(real_lat)  
         err_real = torch.mean(real_disc)
         D_x = real_disc.mean().item()
         
