@@ -2,7 +2,7 @@
 import math
 import torch
 import torch.nn as nn
-import numpy as np
+import numpy as np 
 
 
 def get_timestep_embedding(timesteps, embedding_dim):
