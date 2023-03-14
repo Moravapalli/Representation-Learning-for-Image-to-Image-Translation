@@ -11,9 +11,10 @@ depending on the input. In my master's thesis, I researched and implemented vari
 Networks and Vector Quantization methods capable of generating real-world scenarios
 from computer-generated images.
 
+PyTorch implementation of Representation learning for Image-to-Image Translation
+##### Creating environment
 
-#### Creating environment
-`conda install`
+`conda env create -f environment.yml`
 
 
 
