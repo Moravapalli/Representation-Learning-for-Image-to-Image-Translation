@@ -12,8 +12,8 @@ Networks and Vector Quantization methods capable of generating real-world scenar
 from computer-generated images.
 
 PyTorch implementation of Representation learning for Image-to-Image Translation. The goal of this work is to make use of
-Qunatized discrete codebook to translate images from one domain to another by making a model to this discrete representation 
-from the Synthetic images.
+Qunatized discrete codebook to translate images from one domain to another by making a model to learn realistic discrete representation 
+from the Synthetic images and utilizing this representation to genarate more realistic image. 
 
 ##### Creating environment
 
